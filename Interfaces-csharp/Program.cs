@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Interfaces_csharp
+namespace interfaces
 {
     class Program
     {
