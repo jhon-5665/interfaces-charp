@@ -1,0 +1,13 @@
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.exe
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.deps.json
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.runtimeconfig.json
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.runtimeconfig.dev.json
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.dll
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\bin\Debug\netcoreapp3.1\Interfaces-csharp.pdb
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.csprojAssemblyReference.cache
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.AssemblyInfoInputs.cache
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.AssemblyInfo.cs
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.csproj.CoreCompileInputs.cache
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.dll
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.pdb
+C:\Users\estoque.bhe\source\repos\Interfaces-csharp\Interfaces-csharp\obj\Debug\netcoreapp3.1\Interfaces-csharp.genruntimeconfig.cache
